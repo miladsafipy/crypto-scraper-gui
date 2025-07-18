@@ -1,0 +1,6 @@
+customtkinter
+CTkMessageBox
+bs4
+BeautifulSoup
+pandas
+openpyxl
